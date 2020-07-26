@@ -1,0 +1,14 @@
+.portfolioHeader {
+    background:white;
+}
+.navbar {
+    background: rgb(158, 189, 187);
+}
+h1 {
+    text-align: left;
+    color: mediumaquamarine;
+}
+/* body{
+    background-color:lightskyblue;
+} */
+p {padding-left: 0%;}
